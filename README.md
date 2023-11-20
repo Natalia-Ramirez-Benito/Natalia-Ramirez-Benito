@@ -5,7 +5,10 @@
 </div>
 
 - My name is **Natalia Ramírez Benito**. I'm currently finishing my computing degree at CampusFP.
-- 💬 Languagues and Tools:
+
+---
+
+## 💬 Languagues and Tools:
 <div>
   <img scr="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-plain.svg" title="JetBrains" alt="JetBrains" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -32,7 +35,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
 </div>
 
-- 🌱 Top Languagues:
+---
+
+## 🌱 Top Languagues:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Natalia-Ramirez-Benito&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
