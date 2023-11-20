@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div id="header" align="center">
-  <img src="https://media.discordapp.net/attachments/1070758683774042213/1164127630413545533/03.png" width="100"/>
+  <img src="" width="100"/>
 </div>
 
 # My name is **Natalia Ramírez Benito**. I'm currently finishing my studies in app development.
