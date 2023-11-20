@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div id="header" align="center">
-  <img src="https://64.media.tumblr.com/4616f37446e226a63bd0742f37a14c8a/tumblr_n48kjpfo4S1qg6rkio1_500.gifv" width="100"/>
+  <img src="https://64.media.tumblr.com/fc6b4dc4621b19e503cce94ab0c2d789/c7c024bfa118fa17-31/s540x810/1bb5a83037ddef7bc18d74dc6ad0356efb188e14.gifv" width="100"/>
 </div>
 
 # My name is **Natalia Ramírez Benito**. I'm currently finishing my studies in app development.
