@@ -7,7 +7,7 @@
 - My name is **Natalia Ramírez Benito**. I'm currently finishing my computing degree at CampusFP.
 - 💬 Languagues and Tools:
 <div>
-  <img scr="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-plain.svg" title="JetBrains" alt="JetBrains" width="40" height="40" />&nbsp;
+  <img scr="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-plain.svg" title="JetBrains" alt="JetBrains" width="100" height="100" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
