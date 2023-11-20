@@ -1,10 +1,10 @@
-### Hi there 👋
+# Hi there 👋
 
 <div id="header" align="center">
   <img src="https://media.discordapp.net/attachments/1070758683774042213/1164128593903894528/33.png?ex=6567003d&is=65548b3d&hm=fef75b64365e4939cc773144664c484d3abb4efd90b19f90d21b6023545c4e85&=&width=987&height=167"/>
 </div>
 
-# My name is **Natalia Ramírez Benito**. I'm currently finishing my studies in app development.
+My name is **Natalia Ramírez Benito**. I'm currently finishing my studies in app development.
 
 
 
