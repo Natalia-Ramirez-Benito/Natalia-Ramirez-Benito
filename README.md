@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div id="header" align="center">
-  <img src="https://64.media.tumblr.com/fc6b4dc4621b19e503cce94ab0c2d789/c7c024bfa118fa17-31/s540x810/1bb5a83037ddef7bc18d74dc6ad0356efb188e14.gifv" width="100"/>
+  <img src="https://media.discordapp.net/attachments/1070758683774042213/1164127630413545533/03.png?ex=6566ff57&is=65548a57&hm=f27f8661c021292e5ec2bcebdca014f8a37e43760eb137dcff8e7eb03aee1e8b&=&width=987&height=185" width="100"/>
 </div>
 
 # My name is **Natalia Ramírez Benito**. I'm currently finishing my studies in app development.
