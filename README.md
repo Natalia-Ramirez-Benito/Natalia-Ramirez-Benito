@@ -8,7 +8,7 @@ My name is **Natalia Ramírez Benito**. I'm currently finishing my computing deg
 
 ---
 
-## 💬 Languagues and Tools:
+## 💬  and Tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="JetBrains" alt="JetBrains" width="40" height="40"/>&nbsp;  
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
