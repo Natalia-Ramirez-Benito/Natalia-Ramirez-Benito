@@ -1,7 +1,7 @@
 # Welcome 👋
 
 <div id="header" align="center">
-  <img src="https://media.discordapp.net/attachments/1070758683774042213/1164128593903894528/33.png?ex=6567003d&is=65548b3d&hm=fef75b64365e4939cc773144664c484d3abb4efd90b19f90d21b6023545c4e85&=&width=987&height=167"/>
+  <img src="https://media.discordapp.net/attachments/1070758683774042213/1164127630413545533/03.png?ex=65faa757&is=65e83257&hm=750c76f4efe44252a56020cd8598397b1636246ae4a91d0115995d8854f08be7&=&format=webp&quality=lossless&width=1440&height=270"/>
 </div>
 
 My name is **Natalia Ramírez Benito**. I'm currently finishing my computing degree at CampusFP.
