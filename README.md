@@ -1,7 +1,7 @@
 # Welcome 👋
 
 <div id="header" align="center">
-  <img src="https://i.gifer.com/SRRM.gif" target="_blank"/>
+  <img src="https://i.gifer.com/SRRM.gif" target="_blank" width=1440 height=270/>
 </div>
 
 My name is Natalia Ramírez Benito
