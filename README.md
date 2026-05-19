@@ -18,7 +18,3 @@ My name is Natalia Ramírez Benito
 <p align="left">
 <a href="https://www.github.com/Natalia-Ramirez-Benito" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://es.linkedin.com/in/natalia-ram%C3%ADrez-benito" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>
 </p>
-
-### Top Languages:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Natalia-Ramirez-Benito&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
